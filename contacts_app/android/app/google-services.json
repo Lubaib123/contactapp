@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "312766920278",
+    "project_id": "contactsapp-950c4",
+    "storage_bucket": "contactsapp-950c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312766920278:android:8787af16df1abbfb7dedf7",
+        "android_client_info": {
+          "package_name": "com.example.contactsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqbpCOkfQPyU8qjJFeAp1CtZ4aT3Mj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312766920278:android:64d9ff9700d1933e7dedf7",
+        "android_client_info": {
+          "package_name": "com.example.gsl_student_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxqbpCOkfQPyU8qjJFeAp1CtZ4aT3Mj7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
